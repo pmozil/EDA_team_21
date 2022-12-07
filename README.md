@@ -9,9 +9,17 @@
 |Stream time   |Time streamed                            |
 |Peak viewers  |Most viewers ever recorded on stream     |
 |Average view. |Average viewer count                     |
-|Followers    |Follower amount                           |
+|Followers     |Follower amount                          |
 |Followers gain|Follower count rise from last year       |
 |Views gained  |Views gained from last year              |
 |Partnered     |Whether streamer is partnered with twitch|
 |Mature        |Streamer uses mature language            |
 |Language      |Language the streamer speaks in          |
+
+## Research suggestions
+- Determine how wiew time grows related to sub count
+- Do such a thing for each language in dataset
+- Compare follower count for mature and not mature streamers
+- Compare mature counts in each language
+- Compare viewers for mature and not mature streamers
+- Plot mature and partnered
