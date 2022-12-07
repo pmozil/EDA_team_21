@@ -1,5 +1,7 @@
 # EDA_team_21
 
+[Here's the like for the original dataset](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata)
+
 `data.csv` structure:
 
 |Column name   |Content                                  |
