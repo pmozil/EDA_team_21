@@ -2,7 +2,7 @@
 
 [![Open in Colaboratory](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pmozil/EDA_team_21/blob/main/notebook.ipynb)
 
-[Here's the like for the original dataset](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata)
+[Here's the link for the original dataset](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata)
 
 `data.csv` structure:
 
